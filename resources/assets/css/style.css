@@ -1,0 +1,16 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	background-color: #b20;
+}
+
+
+a:href {
+	text-decoration: none;
+}
+
+
+#page-content {
+	background-color: #fff;
+	max-width: 80%;
+	margin: 100px 0;
+}

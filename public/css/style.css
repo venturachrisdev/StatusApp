@@ -1,0 +1,100 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	background-color: #b20;
+	color: #555;
+}
+
+a:href {
+	text-decoration: none;
+}
+
+strong {
+	color: #000;
+}
+
+h4 {
+	font-weight: 400;
+}
+
+#page-content {
+	background-color: #fff;
+	max-width: 80%;
+	box-shadow: -6px 6px 0px rgba(0,0,0,0.15);
+	margin: 50px auto;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+strong.little {
+	font-size: 13px;
+}
+
+
+.off-left {
+	margin-right: 5px;
+}
+.off-right {
+	margin-right: 5px;
+}
+
+.off-sides {
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.off-sides-bg {
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+.comments-section {
+	max-width: 90%;
+	margin: 5px auto;
+}
+
+.no-resizable {
+	resize: none;
+}
+
+.header-padding {
+	padding: 20px 10px;
+}
+
+.header {
+	color: #fff;
+	margin-top: 30px;
+}
+
+.header a {
+	color: #fff;
+}
+
+.header a:hover {
+	color: #eee;
+	text-decoration: none;
+}
+
+.header h1 {
+	margin-bottom: 20px;
+	font-size: 80px;
+	text-shadow: -5px 5px rgba(0,0,0,0.17);
+}
+
+.big-input-text {
+	font-size: 20px;
+}
+
+.footer, footer a, footer a:hover {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.pagination {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+}
+
+.right-field {
+	border-right: 1px solid #eee;
+}
